@@ -1,7 +1,6 @@
-this is fokir website using only
-
-HTML
-CSS
-Javascript
-Bootstrap
-Jquery
+# This is Fokir website using only
+  => HTML
+  => CSS
+  => Javascript
+  => Bootstrap
+  => Jquery
